@@ -1,5 +1,5 @@
-### MediumVC: Any-to-any voice conversion
-#### [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500)
+### MAE-VC: Voice Conversion Based on Learnable Similarity-Guided Masked Autoencoder
+<!-- #### [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) -->
 #### VCTK
 1. F2F, The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
 2. F2M, We also need a small plastic snake and a big toy frog for the kids. 
@@ -17,14 +17,14 @@
       <td>MAE-VC</td>
    </tr>
    <tr>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="converted_samples/VCTK/V1/1_src_fp240_016.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="converted_samples/VCTK/V1/1_tar_fp231_018.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="converted_samples/VCTK/V1/A_MediumVC.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="converted_samples/VCTK/V1/B_M_WU_S.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="converted_samples/VCTK/V1/C_M_WO_S.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="converted_samples/VCTK/V1/D_FragmentVC.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="converted_samples/VCTK/V1/E_AutoVC.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="converted_samples/VCTK/V1/F_AdaIN-VC.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/F2F/p303_045.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/VCTK/F2F/p280_315.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="samples/VCTK/F2F/A_ADAINVC_p303_045TOp280_315.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="samples/VCTK/F2F/B_AGAINVC_p303_045TOp280_315.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="samples/VCTK/F2F/C_MediumVC_p303_045TOp280_315.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="samples/VCTK/F2F/D_FragmentVC_p303_045TOp280_315.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="samples/VCTK/F2F/E_MAEVC_p303_045TOp280_315.wav"> </audio></td>
+     
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V8_s" src="converted_samples/VCTK/V8/8_src_fp231_004.wav"> </audio></td>
