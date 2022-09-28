@@ -1,10 +1,10 @@
 ### MAE-VC: Voice Conversion Based on Learnable Similarity-Guided Masked Autoencoder
 <!-- #### [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) -->
 #### VCTK
-1. F2F, The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
-2. F2M, We also need a small plastic snake and a big toy frog for the kids. 
-3. M2F, Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
-4. M2M, Many complicated ideas about the rainbow have been formed.
+1. F2F, Our dispute is with the company, not the travelling public.
+2. F2M, I feel we might now have the foundations to go forward.
+3. M2F, She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+4. M2M, The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
 
 <table>
    <tr>
@@ -113,10 +113,10 @@
 </table>
 
 #### LibriSpeech
-1. F2F, Moroccan agriculture enjoys special treatment when exporting to Europe.
-2. F2M, How does the thing cut the true wall?
-3. M2F, Small investors will also be affected, traders said.
-4. M2M, Modern electronics has become highly dependent on inorganic chemistry.
+1. F2F, Turning the first corner he came to, and the next and the next, he stepped into a mews, the court of which seemed empty, and slipped behind the gate.
+2. F2M, In India it is usually made with chicken, but any kind of meat does nicely.
+3. M2F, All this against which he now inveighed so bitterly was but a necessary stage in the shaping of his odd destiny.
+4. M2M, And the subordinate care of justice and the revenue was delegated to seven consulars, three correctors, and five presidents, who governed the fifteen regions of Italy according to the principles, and even the forms, of Roman jurisprudence.
 <table>
    <tr>
       <td>Source</td>
@@ -156,8 +156,8 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="samples/LibriSpeech/M2F/E_MAEVC_1283_129808_000043_000001TO2254_152831_000004_000000.wav"> </audio></td>
    </tr>
    <tr>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/LibriSpeech/M2M/p246_022.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/LibriSpeech/M2M/p245_093.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/LibriSpeech/M2M/1874_143361_000011_000007.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/LibriSpeech/M2M/4243_14929_000012_000000.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="samples/LibriSpeech/M2M/A_ADAINVC_1874_143361_000011_000007TO4243_14929_000012_000000.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="samples/LibriSpeech/M2M/B_AGAINVC_1874_143361_000011_000007TO4243_14929_000012_000000.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="samples/LibriSpeech/M2M/C_MediumVC_1874_143361_000011_000007TO4243_14929_000012_000000.wav"> </audio></td>
@@ -169,10 +169,10 @@
 
 
 #### Aishell-3
-1. F2F, A voice on the beach under the cliff began to sing.
-2. F2M, The two started to walk back along the road toward town.
-3. M2F, This was impregnable, and admitted of neither objection nor restriction.
-4. M2M, From a cupboard he pulled out one of his old shirts, which he tore in pieces.
+1. F2F, 锁链叮叮铛铛的掉在石头地板上。
+2. F2M, 来一首那些花儿。
+3. M2F, 他正在开发监测用户在开车时是否在打盹儿的应用。
+4. M2M, 此次个人住房公积金存贷款利率相应调整。
 
 <table>
    <tr>
