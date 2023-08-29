@@ -1,5 +1,7 @@
-### MAE-VC: Voice Conversion Based on Learnable Similarity-Guided Masked Autoencoder
-<!-- #### [MediumVC: Any-to-any voice conversion using synthetic specific-speaker speeches as intermedium features](https://arxiv.org/abs/2110.02500) -->
+### Compared_with_Baselines
+1. **DiffVCHW** represents the method derived from this paper "DIFFUSION-BASED VOICE CONVERSION WITH FAST MAXIMUM LIKELIHOOD SAMPLING SCHEME"
+2. **The figure** corresponding to the audio refers to the estimation of the Fundamental Frequency (**F0**), which is calculated by function "librosa.pyin".
+
 #### F2F
 <table>
    <tr>
@@ -87,8 +89,6 @@
       <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/3/DiffVCwoCGNG_p329_009TOp225_030_f0.png"> </td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/3/DiffVC_p329_009TOp225_030_f0.png"> </td>
   </tr>
-  
-   
 </table>
 
 #### F2M
@@ -140,8 +140,6 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/F2M/2/DiffVCwoCGNG_p240_088TOp245_027.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/F2M/2/DiffVC_p240_088TOp245_027.wav"> </audio></td>
    </tr>
-  
-   
   <tr>
       <td><img src="Sample-DFHW/Compared_with_Baselines/F2M/2/source_p240_088_f0.png" alt="示例图片"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/F2M/2/target_p245_027_f0.png"> </td>
@@ -209,7 +207,7 @@
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/target_p307_060_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/AdaINVC_p245_062TOp307_060_f0.png"> </td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/AgaINVC_p245_062TOp307_060_f0.png"></td>
-      <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/FragmentVC_p245_062TOp307_060_f0.png">/td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/FragmentVC_p245_062TOp307_060_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/MAEVC_p245_062TOp307_060_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/DiffVCHW_p245_062TOp307_060_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/1/DiffVCwoCGNG_p245_062TOp307_060_f0.png"></td>
@@ -289,9 +287,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVCwoCGNG_p251_002TOp254_008.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVC_p251_002TOp254_008.wav"> </audio></td>
    </tr>
-  
-   
-  <tr>
+ <tr>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/source_p251_002_f0.png" alt="示例图片"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/target_p254_008_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/AdaINVC_p251_002TOp254_008_f0.png"></td>
@@ -314,9 +310,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVCwoCGNG_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVC_p260_040TOp254_033.wav"> </audio></td>
    </tr>
-  
-   
-  <tr>
+ <tr>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/source_p260_040_f0.png" alt="示例图片"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/target_p254_033_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/AdaINVC_p260_040TOp254_033_f0.png"> </td>
@@ -327,8 +321,7 @@
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVCwoCGNG_p260_040TOp254_033_f0.png"></td>
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVC_p260_040TOp254_033_f0.png"></td>
   </tr>
-
-  <tr>
+ <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="Sample-DFHW/Compared_with_Baselines/M2M/3/source_p374_002.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="Sample-DFHW/Compared_with_Baselines/M2M/3/target_p245_038.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="Sample-DFHW/Compared_with_Baselines/M2M/3/AdaINVC_p374_002TOp245_038.wav"> </audio></td>
@@ -354,6 +347,7 @@
 
 
 ### Evaluation_on_Mult_Sampling_Timestep
+1. This section examines the impact of CGNG on model performance across various sampling timesteps.
 #### F2F
 <table>
    <tr>
@@ -426,7 +420,7 @@
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step20_woCGNG_f_p240_088TOm_p245_062_f0.png"></td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step20_CGNG_f_p240_088TOm_p245_062_f0.png"></td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_woCGNG_f_p240_088TOm_p245_062_f0.png"></td>
-      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_woCGNG_f_p240_088TOm_p245_062_f0.png"></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_CGNG_f_240_088TOm_p245_062_f0.png"></td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step40_woCGNG_f_p240_088TOm_p245_062_f0.png"></td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step40_CGNG_f_p240_088TOm_p245_062_f0.png"></td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step50_woCGNG_f_p240_088TOm_p245_062_f0.png"></td>
