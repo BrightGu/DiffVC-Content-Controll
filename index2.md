@@ -10,11 +10,14 @@
    <tr>
       <td>Source</td>
       <td>Target</td>
-      <td>ADAINVC</td>
-      <td>AGAINVC</td>
+      <td>AdaINVC</td>
+      <td>AgaINVC</td>
       <td>MediumVC</td>
       <td>FragmentVC</td>
       <td>MAE-VC</td>
+      <td>DiffVCHW</td>
+      <td>DiffVCwoCGNG</td>
+      <td>DiffVC</td>
    </tr>
    <tr>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/F2F/p303_045.wav"> </audio></td>
