@@ -377,7 +377,7 @@
    </tr>
    <tr>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/source_f_p240_088_f0.png" alt="示例图片"></td>
-      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/target_f_p225_058_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/target_f_p225_058_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step20_woCGNG_f_p240_088TOf_p225_058_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step20_CGNG_f_p240_088TOf_p225_058_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step30_woCGNG_f_p240_088TOf_p225_058_f0.png"> </td>
@@ -385,7 +385,7 @@
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step40_woCGNG_f_p240_088TOf_p225_058_f0.png"></td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step40_CGNG_f_p240_088TOf_p225_058_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step50_woCGNG_f_p240_088TOf_p225_058_f0.png"> </td>
-      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step50_CGNG_f_p240_088TOf_p225_058_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step50_CGNG_f_p240_088TOf_p225_058_f0.png"> </td>
   </tr>
 </table>
 
@@ -457,7 +457,7 @@
    </tr>
    <tr>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2f/source_m_p326_051_f0.png" alt="示例图片"></td>
-      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2f/target_f_p234_023_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2f/target_f_p234_023_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2f/step20_woCGNG_m_p326_051TOf_p234_023_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2f/step20_CGNG_m_p326_051TOf_p234_023_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2f/step30_woCGNG_m_p326_051TOf_p234_023_f0.png"> </td>
@@ -497,7 +497,7 @@
    </tr>
    <tr>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2m/source_m_p347_062_f0.png" alt="示例图片"></td>
-      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2m/target_m_p326_160_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2m/target_m_p326_160_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2m/step20_woCGNG_m_p347_062TOm_p326_160_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2m/step20_CGNG_m_p347_062TOm_p326_160_f0.png"> </td>
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/m2m/step30_woCGNG_m_p347_062TOm_p326_160_f0.png"> </td>
