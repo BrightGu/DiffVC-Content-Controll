@@ -393,3 +393,43 @@
       <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2f/step50_CGNG_f_p240_088TOf_p225_058_f0.png"> </audio></td>
   </tr>
 </table>
+
+#### F2M
+<table>
+   <tr>
+      <td>Source</td>
+      <td>Target</td>
+      <td>step20_woCGNG</td>
+      <td>step20_CGNG</td>
+      <td>step30_woCGNG</td>
+      <td>step30_CGNG</td>
+      <td>step40_woCGNG</td>
+      <td>step40_CGNG</td>
+      <td>step50_woCGNG</td>
+      <td>step50_CGNG</td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/source_f_p240_088.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/target_m_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step20_woCGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step20_CGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_woCGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_CGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step40_woCGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step40_CGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step50_woCGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step50_CGNG_f_p240_088TOm_p245_062.wav"> </audio></td>
+   </tr>
+   <tr>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/source_f_p240_088_f0.png" alt="示例图片"></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/target_m_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step20_woCGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step20_CGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_woCGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step30_CGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step40_woCGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step40_CGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step50_woCGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Evaluation_on_Sampling_Timestep/f2m/step50_CGNG_f_p240_088TOm_p245_062_f0.png"> </audio></td>
+  </tr>
+</table>
