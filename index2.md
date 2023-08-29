@@ -12,7 +12,6 @@
       <td>Target</td>
       <td>AdaINVC</td>
       <td>AgaINVC</td>
-      <td>MediumVC</td>
       <td>FragmentVC</td>
       <td>MAE-VC</td>
       <td>DiffVCHW</td>
@@ -20,41 +19,28 @@
       <td>DiffVC</td>
    </tr>
    <tr>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/F2F/p303_045.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/VCTK/F2F/p280_315.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="samples/VCTK/F2F/A_ADAINVC_p303_045TOp280_315.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="samples/VCTK/F2F/B_AGAINVC_p303_045TOp280_315.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="samples/VCTK/F2F/C_MediumVC_p303_045TOp280_315.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="samples/VCTK/F2F/D_FragmentVC_p303_045TOp280_315.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="samples/VCTK/F2F/E_MAEVC_p303_045TOp280_315.wav"> </audio></td>
-     
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="Sample-DFHW/Compared_with_Baselines/F2F/1/source_p225_004.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="Sample-DFHW/Compared_with_Baselines/F2F/1/target_p240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="Sample-DFHW/Compared_with_Baselines/F2F/1/AdaINVC_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample-DFHW/Compared_with_Baselines/F2F/1/AgaINVC_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample-DFHW/Compared_with_Baselines/F2F/1/FragmentVC_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample-DFHW/Compared_with_Baselines/F2F/1/MAEVC_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample-DFHW/Compared_with_Baselines/F2F/1/DiffVCHW_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/F2F/1/DiffVCwoCGNG_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/F2F/1/DiffVC_p225_004TOp240_002.wav"> </audio></td>
    </tr>
-   <tr>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/F2M/p239_057.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/VCTK/F2M/p252_365.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="samples/VCTK/F2M/A_ADAINVC_p239_057TOp252_365.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="samples/VCTK/F2M/B_AGAINVC_p239_057TOp252_365.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="samples/VCTK/F2M/C_MediumVC_p239_057TOp252_365.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="samples/VCTK/F2M/D_FragmentVC_p239_057TOp252_365.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="samples/VCTK/F2M/E_MAEVC_p239_057TOp252_365.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/M2F/p232_005.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/VCTK/M2F/p308_329.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="samples/VCTK/M2F/A_ADAINVC_p232_005TOp308_329.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="samples/VCTK/M2F/B_AGAINVC_p232_005TOp308_329.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="samples/VCTK/M2F/C_MediumVC_p232_005TOp308_329.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="samples/VCTK/M2F/D_FragmentVC_p232_005TOp308_329.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="samples/VCTK/M2F/E_MAEVC_p232_005TOp308_329.wav"> </audio></td>
-   </tr>
-   <tr>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="samples/VCTK/M2M/p246_022.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="samples/VCTK/M2M/p245_093.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="samples/VCTK/M2M/A_ADAINVC_p246_022TOp245_093.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="samples/VCTK/M2M/B_AGAINVC_p246_022TOp245_093.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="samples/VCTK/M2M/C_MediumVC_p246_022TOp245_093.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="samples/VCTK/M2M/D_FragmentVC_p246_022TOp245_093.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="samples/VCTK/M2M/E_MAEVC_p246_022TOp245_093.wav"> </audio></td>
-   </tr>
+  
+   
+  <tr>
+      <td> <img src="Sample-DFHW/Compared_with_Baselines/F2F/1/source_p225_004_f0.png" alt="示例图片"></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/target_p240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/AdaINVC_p225_004TOp240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/AgaINVC_p225_004TOp240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/FragmentVC_p225_004TOp240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/MAEVC_p225_004TOp240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/DiffVCHW_p225_004TOp240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/DiffVCwoCGNG_p225_004TOp240_002_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/F2F/1/DiffVC_p225_004TOp240_002_f0.png"> </audio></td>
+  </tr>
    
 </table>
