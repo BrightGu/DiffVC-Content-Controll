@@ -4,7 +4,7 @@
 3. For example, "DiffVCwoCGNG_p240_088TOp245_027.wav" is converted by DiffVC without CGNG based on source speech "p240_088.wav" and target speech "p245_027.wav".
 
 #### F2F
-<table>
+<table style="width: 100%; border-collapse: collapse;">
    <tr>
       <td>Source</td>
       <td>Target</td>
