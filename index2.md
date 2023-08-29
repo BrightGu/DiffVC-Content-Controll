@@ -1,6 +1,7 @@
-### Compared_with_Baselines
+### Compared_with_Baselines （Corresponding to Section 5.3）
 1. **DiffVCHW** represents the method derived from this paper "DIFFUSION-BASED VOICE CONVERSION WITH FAST MAXIMUM LIKELIHOOD SAMPLING SCHEME"
 2. **The figure** corresponding to the audio refers to the estimation of the Fundamental Frequency (**F0**), which is calculated by function "librosa.pyin".
+3. For example, "DiffVCwoCGNG_p240_088TOp245_027.wav" is converted by DiffVC without CGNG based on source speech "p240_088.wav" and target speech "p245_027.wav".
 
 #### F2F
 <table>
@@ -346,7 +347,7 @@
 </table>
 
 
-### Evaluation_on_Mult_Sampling_Timestep
+### Evaluation_on_Mult_Sampling_Timestep （Corresponding to Section 5.4）
 1. This section examines the impact of CGNG on model performance across various sampling timesteps.
 #### F2F
 <table>
