@@ -264,3 +264,90 @@
       <td><img src="Sample-DFHW/Compared_with_Baselines/M2F/3/DiffVC_p347_062TOp234_013_f0.png"> </audio></td>
   </tr>
 </table>
+
+#### M2M
+<table>
+   <tr>
+      <td>Source</td>
+      <td>Target</td>
+      <td>AdaINVC</td>
+      <td>AgaINVC</td>
+      <td>FragmentVC</td>
+      <td>MAE-VC</td>
+      <td>DiffVCHW</td>
+      <td>DiffVCwoCGNG</td>
+      <td>DiffVC</td>
+   </tr>
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="Sample-DFHW/Compared_with_Baselines/M2M/1/source_p251_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="Sample-DFHW/Compared_with_Baselines/M2M/1/target_p254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="Sample-DFHW/Compared_with_Baselines/M2M/1/AdaINVC_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample-DFHW/Compared_with_Baselines/M2M/1/AgaINVC_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample-DFHW/Compared_with_Baselines/M2M/1/FragmentVC_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample-DFHW/Compared_with_Baselines/M2M/1/MAEVC_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVCHW_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVCwoCGNG_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVC_p251_002TOp254_008.wav"> </audio></td>
+   </tr>
+  
+   
+  <tr>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/source_p251_002_f0.png" alt="示例图片"></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/target_p254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/AdaINVC_p251_002TOp254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/AgaINVC_p251_002TOp254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/FragmentVC_p251_002TOp254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/MAEVC_p251_002TOp254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVCHW_p251_002TOp254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVCwoCGNG_p251_002TOp254_008_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/1/DiffVC_p251_002TOp254_008_f0.png"> </audio></td>
+  </tr>
+
+   <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="Sample-DFHW/Compared_with_Baselines/M2M/2/source_p260_040.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="Sample-DFHW/Compared_with_Baselines/M2M/2/target_p254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="Sample-DFHW/Compared_with_Baselines/M2M/2/AdaINVC_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample-DFHW/Compared_with_Baselines/M2M/2/AgaINVC_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample-DFHW/Compared_with_Baselines/M2M/2/FragmentVC_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample-DFHW/Compared_with_Baselines/M2M/2/MAEVC_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVCHW_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVCwoCGNG_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVC_p260_040TOp254_033.wav"> </audio></td>
+   </tr>
+  
+   
+  <tr>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/source_p260_040_f0.png" alt="示例图片"></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/target_p254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/AdaINVC_p260_040TOp254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/AgaINVC_p260_040TOp254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/FragmentVC_p260_040TOp254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/MAEVC_p260_040TOp254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVCHW_p260_040TOp254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVCwoCGNG_p260_040TOp254_033_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/2/DiffVC_p260_040TOp254_033_f0.png"> </audio></td>
+  </tr>
+
+  <tr>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_s" src="Sample-DFHW/Compared_with_Baselines/M2M/3/source_p374_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_t" src="Sample-DFHW/Compared_with_Baselines/M2M/3/target_p245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_A" src="Sample-DFHW/Compared_with_Baselines/M2M/3/AdaINVC_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample-DFHW/Compared_with_Baselines/M2M/3/AgaINVC_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample-DFHW/Compared_with_Baselines/M2M/3/FragmentVC_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample-DFHW/Compared_with_Baselines/M2M/3/MAEVC_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample-DFHW/Compared_with_Baselines/M2M/3/DiffVCHW_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample-DFHW/Compared_with_Baselines/M2M/3/DiffVCwoCGNG_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample-DFHW/Compared_with_Baselines/M2M/3/DiffVC_p374_002TOp245_038.wav"> </audio></td>
+   </tr>
+  <tr>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/source_p374_002_f0.png" alt="示例图片"></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/target_p245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/AdaINVC_p374_002TOp245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/AgaINVC_p374_002TOp245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/FragmentVC_p374_002TOp245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/MAEVC_p374_002TOp245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/DiffVCHW_p374_002TOp245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/DiffVCwoCGNG_p374_002TOp245_038_f0.png"> </audio></td>
+      <td><img src="Sample-DFHW/Compared_with_Baselines/M2M/3/DiffVC_p374_002TOp245_038_f0.png"> </audio></td>
+  </tr>
+</table>
