@@ -189,7 +189,7 @@
       <td>AgaINVC</td>
       <td>FragmentVC</td>
       <td>MAE-VC</td>
-      <td>YOurTTS</td>
+      <td>YourTTS</td>
       <td>DiffVC</td>
       <td>DMVCwoCGNG</td>
       <td>DMVC</td>
@@ -215,6 +215,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2M/2/AgaINVC_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2M/2/FragmentVC_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/2/MAEVC_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/2/YourTTS_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2M/2/DiffVC_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2M/2/DMVCwoCGNG_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2M/2/DMVC_p260_040TOp254_033.wav"> </audio></td>
