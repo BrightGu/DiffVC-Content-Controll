@@ -23,7 +23,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/F2F/1/AgaINVC_p225_004TOp240_002.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/F2F/1/FragmentVC_p225_004TOp240_002.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2F/1/MAEVC_p225_004TOp240_002.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2F/1/YourTTS_p225_004TOp240_002.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/F2F/1/YourTTS_p225_004TOp240_002.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/F2F/1/DiffVC_p225_004TOp240_002.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/F2F/1/DMVCwoCGNG_p225_004TOp240_002.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/F2F/1/DMVC_p225_004TOp240_002.wav"> </audio></td>
@@ -36,7 +36,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/F2F/2/AgaINVC_p264_045TOp225_039.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/F2F/2/FragmentVC_p264_045TOp225_039.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2F/2/MAEVC_p264_045TOp225_039.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2F/2/YourTTS_p264_045TOp225_039.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/F2F/2/YourTTS_p264_045TOp225_039.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/F2F/2/DiffVC_p264_045TOp225_039.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/F2F/2/DMVCwoCGNG_p264_045TOp225_039.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/F2F/2/DMVC_p264_045TOp225_039.wav"> </audio></td>
@@ -51,7 +51,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/F2F/3/AgaINVC_p329_009TOp225_030.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/F2F/3/FragmentVC_p329_009TOp225_030.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2F/3/MAEVC_p329_009TOp225_030.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2F/3/YourTTS_p329_009TOp225_030.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/F2F/3/YourTTS_p329_009TOp225_030.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/F2F/3/DiffVC_p329_009TOp225_030.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/F2F/3/DMVCwoCGNG_p329_009TOp225_030.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/F2F/3/DMVC_p329_009TOp225_030.wav"> </audio></td>
@@ -82,7 +82,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/F2M/1/AgaINVC_p234_010TOp326_160.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/F2M/1/FragmentVC_p234_010TOp326_160.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2M/1/MAEVC_p234_010TOp326_160.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2M/1/YourTTS_p234_010TOp326_160.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/F2M/1/YourTTS_p234_010TOp326_160.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/F2M/1/DiffVC_p234_010TOp326_160.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/F2M/1/DMVCwoCGNG_p234_010TOp326_160.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/F2M/1/DMVC_p234_010TOp326_160.wav"> </audio></td>
@@ -98,7 +98,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/F2M/2/AgaINVC_p240_088TOp245_027.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/F2M/2/FragmentVC_p240_088TOp245_027.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2M/2/MAEVC_p240_088TOp245_027.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2M/2/YourTTS_p240_088TOp245_027.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/F2M/2/YourTTS_p240_088TOp245_027.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/F2M/2/DiffVC_p240_088TOp245_027.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/F2M/2/DMVCwoCGNG_p240_088TOp245_027.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/F2M/2/DMVC_p240_088TOp245_027.wav"> </audio></td>
@@ -112,7 +112,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/F2M/3/AgaINVC_p310_034TOp326_050.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/F2M/3/FragmentVC_p310_034TOp326_050.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2M/3/MAEVC_p310_034TOp326_050.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/F2M/3/YourTTS_p310_034TOp326_050.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/F2M/3/YourTTS_p310_034TOp326_050.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/F2M/3/DiffVC_p310_034TOp326_050.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/F2M/3/DMVCwoCGNG_p310_034TOp326_050.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/F2M/3/DMVC_p310_034TOp326_050.wav"> </audio></td>
@@ -141,7 +141,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2F/1/AgaINVC_p245_062TOp307_060.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2F/1/FragmentVC_p245_062TOp307_060.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2F/1/MAEVC_p245_062TOp307_060.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2F/1/YourTTS_p245_062TOp307_060.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/M2F/1/YourTTS_p245_062TOp307_060.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2F/1/DiffVC_p245_062TOp307_060.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2F/1/DMVCwoCGNG_p245_062TOp307_060.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2F/1/DMVC_p245_062TOp307_060.wav"> </audio></td>
@@ -156,7 +156,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2F/2/AgaINVC_p326_053TOp240_005.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2F/2/FragmentVC_p326_053TOp240_005.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2F/2/MAEVC_p326_053TOp240_005.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2F/2/YourTTS_p326_053TOp240_005.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/M2F/2/YourTTS_p326_053TOp240_005.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2F/2/DiffVC_p326_053TOp240_005.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2F/2/DMVCwoCGNG_p326_053TOp240_005.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2F/2/DMVC_p326_053TOp240_005.wav"> </audio></td>
@@ -172,7 +172,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2F/3/AgaINVC_p347_062TOp234_013.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2F/3/FragmentVC_p347_062TOp234_013.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2F/3/MAEVC_p347_062TOp234_013.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2F/3/YourTTS_p347_062TOp234_013.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/M2F/3/YourTTS_p347_062TOp234_013.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2F/3/DiffVC_p347_062TOp234_013.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2F/3/DMVCwoCGNG_p347_062TOp234_013.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2F/3/DMVC_p347_062TOp234_013.wav"> </audio></td>
@@ -201,7 +201,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2M/1/AgaINVC_p251_002TOp254_008.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2M/1/FragmentVC_p251_002TOp254_008.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/1/MAEVC_p251_002TOp254_008.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/1/YourTTS_p251_002TOp254_008.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/M2M/1/YourTTS_p251_002TOp254_008.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2M/1/DiffVC_p251_002TOp254_008.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2M/1/DMVCwoCGNG_p251_002TOp254_008.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2M/1/DMVC_p251_002TOp254_008.wav"> </audio></td>
@@ -215,7 +215,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2M/2/AgaINVC_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2M/2/FragmentVC_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/2/MAEVC_p260_040TOp254_033.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/2/YourTTS_p260_040TOp254_033.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/M2M/2/YourTTS_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2M/2/DiffVC_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2M/2/DMVCwoCGNG_p260_040TOp254_033.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2M/2/DMVC_p260_040TOp254_033.wav"> </audio></td>
@@ -228,7 +228,7 @@
       <td><audio id="audio" controls="" preload="none"> <source id="V1_B" src="Sample/Compared_with_Baselines/M2M/3/AgaINVC_p374_002TOp245_038.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_C" src="Sample/Compared_with_Baselines/M2M/3/FragmentVC_p374_002TOp245_038.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/3/MAEVC_p374_002TOp245_038.wav"> </audio></td>
-      <td><audio id="audio" controls="" preload="none"> <source id="V1_D" src="Sample/Compared_with_Baselines/M2M/3/YourTTS_p374_002TOp245_038.wav"> </audio></td>
+      <td><audio id="audio" controls="" preload="none"> <source id="V1_H" src="Sample/Compared_with_Baselines/M2M/3/YourTTS_p374_002TOp245_038.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_E" src="Sample/Compared_with_Baselines/M2M/3/DiffVC_p374_002TOp245_038.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_F" src="Sample/Compared_with_Baselines/M2M/3/DMVCwoCGNG_p374_002TOp245_038.wav"> </audio></td>
       <td><audio id="audio" controls="" preload="none"> <source id="V1_G" src="Sample/Compared_with_Baselines/M2M/3/DMVC_p374_002TOp245_038.wav"> </audio></td>
