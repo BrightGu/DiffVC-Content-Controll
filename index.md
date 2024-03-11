@@ -1,4 +1,4 @@
-### Compared_with_Baselines （Corresponding to Section 5.1）
+### Compared_with_Baselines （Corresponding to Section 4.3）
 1. **DiffVC** represents the method derived from this paper "DIFFUSION-BASED VOICE CONVERSION WITH FAST MAXIMUM LIKELIHOOD SAMPLING SCHEME"
 2. For example, "DMVCwoCGNG_p240_088TOp245_027.wav" is converted by DMVC without CGNG based on source speech "p240_088.wav" and target speech "p245_027.wav".
 3. F means female and M means male.
@@ -238,7 +238,7 @@
 </table>
 
 
-### Evaluation_on_Mult_Sampling_Timestep （Corresponding to Section 5.2）
+### Evaluation_on_Mult_Sampling_Timestep （Corresponding to Section 4.4）
 1. This section examines the impact of CGNG on model performance across various sampling timesteps.
 #### F2F
 <table>
